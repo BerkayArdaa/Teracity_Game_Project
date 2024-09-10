@@ -17,8 +17,8 @@ TextMesh Pro: For displaying in-game text elements such as wave numbers and scor
 Installation
 Clone the repository:
 bash
-Kodu kopyala
 git clone https://github.com/BerkayArdaa/Teracity_Game_Project.git
+
 Open the project in Unity (Unity 2021.3 or newer is recommended).
 Open the main scene to start developing or playing the game.
 Gameplay
